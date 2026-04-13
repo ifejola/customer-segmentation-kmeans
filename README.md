@@ -10,7 +10,7 @@ The goal is to identify distinct customer groups that can support targeted marke
 ---
 
 ## Dataset
-The dataset contains 2,600+ user records with the following features:
+The dataset contains 2,600 user records with the following features:
 - Instagram Visit Score
 - Spending Rank (0–100)
 
